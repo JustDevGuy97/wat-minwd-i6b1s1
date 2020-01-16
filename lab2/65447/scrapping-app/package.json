@@ -1,0 +1,20 @@
+{
+  "name": "scrapping-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base64-img": "^1.0.4",
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "0.0.1-security",
+    "image-downloader": "^3.5.0",
+    "node-base64-image": "^1.0.6",
+    "request": "^2.88.0"
+  }
+}
